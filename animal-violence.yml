@@ -603,3 +603,14 @@
   inconsiderate:
     grandfathered: animal-violence
   source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: References a bird unable to fly due to injury. 'Outgoing' or 'transitional'
+    are more precise in political and tech contexts.
+  considerate:
+    outgoing: a
+    transitional: a
+    ineffective: a
+  inconsiderate:
+    lame duck: animal-violence
+    lame-duck: animal-violence
+  source: https://doi.org/10.1007/s43681-023-00380-w
