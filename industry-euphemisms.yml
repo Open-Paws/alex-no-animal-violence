@@ -1,0 +1,133 @@
+# AUTO-GENERATED from Open-Paws/no-animal-violence. Do not edit directly.
+# Source: https://doi.org/10.1007/s43681-023-00380-w
+
+- type: basic
+  note: Industry commodity framing. Defines sentient beings by their commercial function.
+    'Farmed animals' is factually equivalent and does not erase the subject.
+  considerate:
+    farmed animals: a
+    animals raised for food: a
+  inconsiderate:
+    livestock: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry commodity framing. Abstracts individual birds into a bulk commodity
+    term. 'Farmed birds' or the specific species name is more precise.
+  considerate:
+    farmed birds: a
+    chickens: a
+    chickens and turkeys: a
+  inconsiderate:
+    poultry: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. A metal enclosure so small a pregnant sow cannot turn
+    around for her entire 3.5-month pregnancy. 'Pregnancy cage' describes what it
+    actually is.
+  considerate:
+    pregnancy cage: a
+    pregnancy cages: a
+  inconsiderate:
+    gestation crate: industry-euphemism
+    gestation crates: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. Used to describe killing entire flocks or herds. Suppress
+    in database or population statistics contexts where 'depopulation' means removing
+    data rows.
+  considerate:
+    mass killing: a
+    killed en masse: a
+    killing en masse: a
+  inconsiderate:
+    depopulation: industry-euphemism
+    depopulated: industry-euphemism
+    depopulating: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. When referring to facilities that kill animals, 'slaughterhouse'
+    is the accurate term.
+  considerate:
+    slaughterhouse: a
+    slaughterhouses: a
+  inconsiderate:
+    processing plant: industry-euphemism
+    processing plants: industry-euphemism
+    processing facility: industry-euphemism
+    processing facilities: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. A metal cage that confines a sow during and after birth,
+    preventing her from turning around or reaching her piglets. 'Birthing cage' describes
+    the reality.
+  considerate:
+    birthing cage: a
+    birthing cages: a
+  inconsiderate:
+    farrowing crate: industry-euphemism
+    farrowing crates: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. Wire enclosures giving each hen less floor space than
+    a sheet of paper. The word 'battery' obscures that this is a tiny cage stacked
+    in rows of thousands.
+  considerate:
+    small wire cage: a
+    small wire cages: a
+    confined cage: a
+    confined cages: a
+  inconsiderate:
+    battery cage: industry-euphemism
+    battery cages: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism. 'Spent' frames a living hen as a depleted resource. These
+    hens are typically killed at 18 months when egg production drops below commercial
+    thresholds.
+  considerate:
+    discarded hen: a
+    discarded hens: a
+    hen killed after egg production declines: a
+  inconsiderate:
+    spent hen: industry-euphemism
+    spent hens: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry oxymoron. The adjective 'humane' sanitizes the act. USDA 'humane
+    slaughter' standards permit bolt guns, electrocution, and gas chambers.
+  considerate:
+    slaughter: a
+    slaughtered: a
+    killing: a
+    killed: a
+  inconsiderate:
+    humane slaughter: industry-euphemism
+    humanely slaughter: industry-euphemism
+    humane slaughtered: industry-euphemism
+    humanely slaughtered: industry-euphemism
+    humane killing: industry-euphemism
+    humanely killing: industry-euphemism
+    humane killed: industry-euphemism
+    humanely killed: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry commodity term that defines a living chicken entirely by its commercial
+    purpose.
+  considerate:
+    chicken raised for meat: a
+    chickens raised for meat: a
+    meat chicken: a
+    meat chickens: a
+  inconsiderate:
+    broiler: industry-euphemism
+    broilers: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
+- type: basic
+  note: Industry euphemism for the flesh of male dairy calves, typically killed within
+    weeks of birth. Obscures both the species and the age of the individual.
+  considerate:
+    calf flesh: a
+    flesh from calves: a
+  inconsiderate:
+    veal: industry-euphemism
+  source: https://doi.org/10.1007/s43681-023-00380-w
